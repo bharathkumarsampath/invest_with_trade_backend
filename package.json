@@ -1,0 +1,19 @@
+{
+  "name": "node.js-signup",
+  "version": "1.0.0",
+  "description": "This is a user sign up using Node.js, Express, Mongoose",
+  "main": "server.js",
+  "dependencies": {
+    "connect-mongo": "^3.0.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.13.3",
+    "nodemailer": "^6.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
