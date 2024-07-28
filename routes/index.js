@@ -135,7 +135,7 @@ async function sendEmail(email,username) {
 		service: 'gmail',
 		auth: {
 			user: 'bharathcse960@gmail.com',
-			pass: 'bharaths223', 
+			pass: 'password', 
 		},
 	  });
 
